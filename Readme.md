@@ -193,10 +193,3 @@ Created as a customer churn prediction project using machine learning and data a
 
 ---
 
-If you want, I can also create a more professional version of this README with:
-
-- a project badges section
-- a screenshot section
-- a table of results
-- an installation guide tailored for GitHub
-- a cleaner "Project Summary" and "Business Impact" layout
