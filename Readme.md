@@ -179,17 +179,7 @@ These insights help explain the relationship between customer attributes and chu
 
 This project is intended for educational and learning purposes.
 
-## Author
 
-Created as a customer churn prediction project using machine learning and data analysis techniques.
-
-## Future Improvements
-
-- Compare multiple models such as Random Forest, XGBoost, or Gradient Boosting
-- Tune hyperparameters for better performance
-- Add SHAP or feature importance analysis
-- Build a web app for prediction
-- Deploy the model for real-world use
 
 ---
 
