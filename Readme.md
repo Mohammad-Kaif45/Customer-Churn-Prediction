@@ -168,7 +168,7 @@ Open `Customer_Churn_Prediction.ipynb` and run all cells.
 
 The notebook produces visualizations of:
 
-- Churn distribution
+- Churn distribution // 
 - Churn by contract type
 - Tenure distribution by churn status
 - Monthly charges compared across churn groups
